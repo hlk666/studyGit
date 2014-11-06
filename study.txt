@@ -3,3 +3,4 @@ I am line2.
 Add line3.
 merge dev branch to master branch.
 merge dev to master step2.
+fix bug now.
